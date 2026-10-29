@@ -1,0 +1,8 @@
+{
+  "name": "NOVA WEAR | Egyptian Streetwear",
+  "description": "High-end contemporary Egyptian streetwear brand e-commerce store with Arabic/English bilingual support, EGP checkout, order tracking, and administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
